@@ -56,7 +56,3 @@ You should be then be able to install and update the following packages with `ap
 - **t2-apple-audio-dsp-mic**: Mic configuration files for T2 Macs.
 - **t2-apple-audio-dsp-speakers161**: Pipewire filterchain configuration files for Macbook Pro 16 inch, 2019
 - **tiny-dfr**: Function row daemon for touchbar on Macs
-
-## Donate
-
-If you've really loved the work I've done so far for T2 Macs, and wanna help me out financially, you can donate me (AdityaGarg8) by following the instructions given [here](https://wiki.t2linux.org/contribute/#support-our-maintainers).
